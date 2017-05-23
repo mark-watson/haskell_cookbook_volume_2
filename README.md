@@ -5,4 +5,4 @@ This repo will eventually the Haskell programming examples for my book ["Haskell
 
 Currently the examples for this new Haskell book are in a private repository.
 
-NOTE: This book is a work in progress - please check back here June 2017.
+NOTE: This book is a work in progress - please check back here July 2017.
